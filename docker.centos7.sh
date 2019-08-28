@@ -20,4 +20,6 @@ docker-compose version
 sudo groupadd docker
 sudo gpasswd -a $USER docker 
 newgrp docker
-docker ps 
+docker ps
+
+
