@@ -1,7 +1,9 @@
 # install
 easy deployment
 
+# nginx-1.16.1 (need root user)
 
+`curl https://raw.githubusercontent.com/cyr1906/install/master/nginx-1.16.1.sh -o nginx-1.16.1.sh |chmod +x nginx-1.16.1.sh |bash nginx-1.16.1.sh`
 # docker 
 
 `curl https://raw.githubusercontent.com/cyr1906/install/master/docker.centos7.sh -o docker.centos7.sh|sudo sh docker.centos7.sh`
