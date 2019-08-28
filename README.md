@@ -9,3 +9,7 @@ easy deployment
 # python-3.6.9
 
 `curl https://raw.githubusercontent.com/cyr1906/install/master/python-3.6.9.centos7.sh -o python-3.6.9.centos7.sh|sudo sh python-3.6.9.centos7.sh`
+
+# ssr
+
+`curl https://raw.githubusercontent.com/cyr1906/install/master/simple-ssr.sh -o simple-ssr.sh|sudo sh simple-ssr.sh`
